@@ -15,3 +15,6 @@ Formats skye logs. Most useful when trying to read http invoker logs.
 pyinstaller --onefile -w formatter.py
 ```
 You will find the built `.exe` file in the `dist` directory
+
+### Download the pre-built program
+- You can find the ready to use `formatter.exe` in the repository
